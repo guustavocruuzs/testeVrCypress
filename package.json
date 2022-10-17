@@ -1,0 +1,23 @@
+{
+  "name": "testevrcypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guustavocruuzs/testeVrCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guustavocruuzs/testeVrCypress/issues"
+  },
+  "homepage": "https://github.com/guustavocruuzs/testeVrCypress#readme",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
