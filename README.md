@@ -1,4 +1,4 @@
-# *API Tests Automation*
+# *Front Tests Automation*
 
 ## *Pré-Requisitos*
 - Cypress
