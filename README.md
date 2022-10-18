@@ -1,5 +1,3 @@
-# testeVrRuby-back
-
 # *API Tests Automation*
 
 ## *Pré-Requisitos*
